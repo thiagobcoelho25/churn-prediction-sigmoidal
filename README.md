@@ -18,7 +18,7 @@ Neste projeto utilizarei tecnicas de ML com feature engineering para a prediçã
 
 **Links:**
 
-<!--* [Projeto no Medium](https://thiagobcoelho25.medium.com/detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%B5es-de-cr%C3%A9dito-utilizando-machine-learning-b6c5b80b126e) -->
+* [Projeto no Medium](https://thiagobcoelho25.medium.com/churn-prediction-para-uma-empresa-de-telecomunica%C3%A7%C3%B5es-9ebf5d26b268)
 * [LinkedIn](https://www.linkedin.com/in/thiagobcoelho25/)
 
 
